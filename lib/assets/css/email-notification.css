@@ -1,0 +1,4 @@
+#woocommerce-product-data ul.wc-tabs li.email-notification-tab_options a:before { 
+	font-family: Dashicons; 
+	content: '\f466'; 
+}
